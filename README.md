@@ -16,8 +16,8 @@ Optimization parameters can be set at the beginning of START.m script, which ser
 <em>An example of the convergence plot of Q-factors normalized to the fundamental bound, where dashed vertical lines represent iterations in which the sharpness of the projection filter is doubled.</em>
 
 <p align="center">
-  <img src="https://github.com/tucekjon/Topology_optimization_minQ/blob/main/TopOpt-results-optimizedDesign.png?raw=true" width="450" />
-  <img src="https://github.com/tucekjon/Topology_optimization_minQ/blob/main/TopOpt-results-binaryDesign.png?raw=true" width="450" /> 
+  <img src="https://github.com/tucekjon/Topology_optimization_minQ/blob/main/TopOpt-results-optimizedDesign.png?raw=true" width="400" />
+  <img src="https://github.com/tucekjon/Topology_optimization_minQ/blob/main/TopOpt-results-binaryDesign.png?raw=true" width="400" /> 
 </p>
 <em>An example of the  optimized structure with residual gray elements (left). An example of the thresholded binary structure (right).</em>
 
