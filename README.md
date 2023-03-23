@@ -24,7 +24,7 @@ Optimization parameters can be set at the beginning of START.m script, which ser
 
 ## References
 
-[1] Tucek, J.,Capek, M., Jelinek, L., Sigmund, O.: Density-Based Topology Optimization in Method of Moments: Q-factor Minimization, submitted to IEEE Trans. Antennas Propag, arXiv preprint available,pp. 1-13, 2023.
+[1] Tucek, J.,Capek, M., Jelinek, L., Sigmund, O.: Density-Based Topology Optimization in Method of Moments: Q-factor Minimization, submitted to IEEE Trans. Antennas Propag, arXiv preprint available, pp. 1-13, 2023.
 
 [2] Antenna Toolbox for MATLAB (AToM), [on-line]: www.antennatoolbox.com, (2022)
 
